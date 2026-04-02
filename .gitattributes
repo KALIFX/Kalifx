@@ -1,0 +1,3 @@
+# Treat MetaTrader source files as text
+*.mq4 text
+*.mq5 text
